@@ -12,7 +12,7 @@ using namespace std;
 int main() {
 	int z;
 	cin>>z;
-	int arr[55];
+	long long  arr[55];
 	arr[1]=0;
 	arr[2]=1;
 	for(int i =3;i<=z;i++){
